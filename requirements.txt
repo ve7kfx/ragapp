@@ -1,0 +1,13 @@
+numpy
+faiss-cpu  # or faiss-gpu if you're using a GPU
+langchain
+langchain-chroma
+langchain-community
+langchain-ollama
+pdfminer.six
+python-docx
+beautifulsoup4
+requests
+rich
+questionary
+newspaper3k
